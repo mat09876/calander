@@ -1,0 +1,10 @@
+.wrap{
+  display: flex;
+  flex-wrap: wrap;
+}
+.app__months{
+  border: 1px solid #ccc;
+ 
+   width: 20%;
+   height: 200px;
+}
